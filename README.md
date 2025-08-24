@@ -4,13 +4,13 @@
 
 ## Walkthrough:
 
-- go to [insert link](https://example.com)
+- go to [this demo](https://ishan-karpe.github.io/Cafes-Curator/)
 - allow access to your location
 - swipe right to save cafes, swipe left to ignore them.
 
 ## Future Enhancements:
 
-- Click on a cafe to see some info directly pulled from API. Shows a animated popup.
+- Click on a cafe to see some info directly pulled from the API. Shows an animated pop-up.
 - Add / Delete from that popup.
 - A [insert favorite cuisine here] restaurant finder
 - Adding a map of places next to the cards
@@ -20,7 +20,7 @@
 
 > The Places API fetches data like location names, addresses, photos, etc. It's a great tool for accessing updated data and finding multiple places without manually copying all of their information into a project.
 
-> Endpoints are where requests are sent for specific actions / functions to an API.
+> Endpoints are where requests are sent for specific actions/functions to an API.
 
 > A library is a collection of reusable resources like functions, classes, and pieces of pre-written code.
 
