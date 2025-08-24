@@ -1,4 +1,4 @@
-const apiKey = "AIzaSyBzBLn0rQ9TYFaCv3tkE5EKB9t5yD-dxHo"; // Replace with your Google Places API key
+const apiKey = ""; // Replace with your Google Places API key
 const useProxy = true; // Set to true if you want to use a CORS proxy
 const proxyUrl = "https://cors-anywhere.herokuapp.com/"; // CORS proxy
 
